@@ -1,0 +1,1 @@
+maven project for https://github.com/jponge/vertx-in-action
